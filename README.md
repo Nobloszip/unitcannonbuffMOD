@@ -1,7 +1,7 @@
 # unitcannonbuffMOD
 
-This mod allows you to build more units.
+This mod allows you to build more units with the unit cannon.
 
-Unit cannon has some units that cannot be built from the buildbar.
+Not all units from the buildbar can be built.
 
 Manhattan - nuke tanks are transportable now.
