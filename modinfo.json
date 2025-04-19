@@ -2,7 +2,7 @@
    "context": "server",
    "identifier": "com.pa.unit_cannon_buff",
    "display_name": "unit cannon buff",
-   "description": "build different units using the unit cannon. should not be used for serious games.",
+   "description": "build different units using the unit cannon. Manhattans are transportable. should not be used for serious games.",
    "author": "menacenuke",
    "version": "1.0",
    "build": "105067",
