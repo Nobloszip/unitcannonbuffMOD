@@ -1,0 +1,20 @@
+{
+   "context": "server",
+   "identifier": "com.pa.unit_cannon_buff",
+   "display_name": "unit cannon buff",
+   "description": "build different units using the unit cannon. should not be used for serious games.",
+   "author": "menacenuke",
+   "version": "1.0",
+   "build": "105067",
+   "date": "18.4.2025",
+   "signature": "job",
+   "forum": "https://steamcommunity.com/app/386070/discussions/0/599650146629791987/",
+   "github": "https://github.com/Nobloszip/unitcannonbuffMOD",
+   "priority": 100,
+   "icon": "https://images.steamusercontent.com/ugc/15307984768961269/C733F8E5A107AB09781781BC0BA381891EEB3182/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+   "category": [
+   "units",
+   "classic",
+   "titans"
+]
+ }
